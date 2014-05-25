@@ -44,3 +44,4 @@ needed.cols <- c(mean.cols, st.dev.cols)
 sub.df <- all.ds[,needed.cols]
 
 tidy <- ddply(.data = all.ds, .variables = c("subject", "Activity"), .fun = numcolwise(mean))
+write.table(tidy, file="tidy_data_set.csv", sep=",",row.names=F)
