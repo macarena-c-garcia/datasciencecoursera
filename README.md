@@ -79,5 +79,7 @@ sub.df <- all.ds[,needed.cols]
 #  By using the "numcolwise(mean)" function, it applies a mean for ever available column
 #  This is the tidy dataset that has each subject and Activity combination, and a mean for every column
 tidy <- ddply(.data = all.ds, .variables = c("subject", "Activity"), .fun = numcolwise(mean))
+#  This writes the tidy data set into a csv file in your machine.
+write.table(tidy, file="tidy_data_set.csv", sep=",",row.names=F)
 
 
