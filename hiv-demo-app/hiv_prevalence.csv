@@ -1,0 +1,80 @@
+country,pop.type,year,hiv.prevalence
+Botswana,general pop,2005,25.37
+Botswana,general pop,2006,24.91
+Botswana,general pop,2007,24.48
+Botswana,general pop,2008,24.05
+Botswana,general pop,2009,23.62
+Botswana,general pop,2010,23.18
+Botswana,general pop,2011,22.77
+Botswana,general pop,2012,22.35
+Botswana,general pop,2013,21.86
+Botswana,MSM,2013,13.1
+Botswana,FSW,2013,61.9
+Lesotho,general pop,2005,21.97
+Lesotho,general pop,2006,21.92
+Lesotho,general pop,2007,22
+Lesotho,general pop,2008,22.3
+Lesotho,general pop,2009,22.54
+Lesotho,general pop,2010,22.68
+Lesotho,general pop,2011,22.8
+Lesotho,general pop,2012,22.87
+Lesotho,general pop,2013,22.85
+Swaziland,general pop,2005,26.18
+Swaziland,general pop,2006,26.19
+Swaziland,general pop,2007,26.32
+Swaziland,general pop,2008,26.54
+Swaziland,general pop,2009,26.8
+Swaziland,general pop,2010,27.11
+Swaziland,general pop,2011,27.37
+Swaziland,general pop,2012,27.42
+Swaziland,general pop,2013,27.36
+Swaziland,MSM,2011,16.72
+Swaziland,FSW,2011,69.66
+South Africa,general pop,2005,18.53
+South Africa,general pop,2006,18.7
+South Africa,general pop,2007,18.82
+South Africa,general pop,2008,18.91
+South Africa,general pop,2009,18.93
+South Africa,general pop,2010,18.87
+South Africa,general pop,2011,18.84
+South Africa,general pop,2012,18.94
+South Africa,general pop,2013,19.05
+South Africa,MSM,2009,13.2
+South Africa,MSM,2011,9.9
+Tanzania,general pop,2005,6.57
+Tanzania,general pop,2006,6.27
+Tanzania,general pop,2007,6.05
+Tanzania,general pop,2008,5.89
+Tanzania,general pop,2009,5.72
+Tanzania,general pop,2010,5.54
+Tanzania,general pop,2011,5.35
+Tanzania,general pop,2012,5.15
+Tanzania,general pop,2013,4.95
+Tanzania,MSM,2013,22.2
+Tanzania,IDU,2013,15.5
+Tanzania,FSW,2013,31.4
+Uganda,general pop,2005,6.15
+Uganda,general pop,2006,6.27
+Uganda,general pop,2007,6.41
+Uganda,general pop,2008,6.58
+Uganda,general pop,2009,6.79
+Uganda,general pop,2010,7.01
+Uganda,general pop,2011,7.21
+Uganda,general pop,2012,7.35
+Uganda,general pop,2013,7.44
+Uganda,MSM,2013,13.2
+Uganda,FSW,2011,35
+Uganda,FSW,2013,34.2
+Kenya,general pop,2005,6.6
+Kenya,general pop,2006,6.3
+Kenya,general pop,2007,6.15
+Kenya,general pop,2008,6.07
+Kenya,general pop,2009,6.02
+Kenya,general pop,2010,6.03
+Kenya,general pop,2011,6.06
+Kenya,general pop,2012,6.05
+Kenya,general pop,2013,6.04
+Kenya,MSM,2007,43
+Kenya,MSM,2011,18.2
+Kenya,IDU,2007,50
+Kenya,IDU,2011,18.3
